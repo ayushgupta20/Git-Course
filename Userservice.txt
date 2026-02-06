@@ -4,3 +4,6 @@ from the data
 
 new branch creater "feature1"
 login and logout
+
+change 1
+change 2
