@@ -1,3 +1,7 @@
 control the admin requests
 Also manage the database
+<<<<<<< HEAD
 closing the oracle database connection
+=======
+closing the mysql database connection
+>>>>>>> 7abff048cbf91ab5775ced802d7f98a275a12621
