@@ -1,1 +1,1 @@
-# Git-Course
+This is git learning course
