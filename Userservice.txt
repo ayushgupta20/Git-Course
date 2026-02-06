@@ -1,2 +1,2 @@
 get user data
-from the from
+from the data
