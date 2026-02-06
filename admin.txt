@@ -1,2 +1,3 @@
 control the admin requests
 Also manage the database
+closing the connextion
