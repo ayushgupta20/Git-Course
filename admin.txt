@@ -3,5 +3,6 @@ Also manage the database
 closing the oracle database connection
 closing the mysql database connection
 
-continue learning
+continue learning always
+and always
 
